@@ -1,1 +1,1 @@
-# nft-deplyoyment
+# Creation and deployment of nft to OpenSea using ipfs/pinata
